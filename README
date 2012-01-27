@@ -1,1 +1,4 @@
-This is the sourcecode for the following article: http://marcelog.github.com/articles/creating_php_cli_standalone_portable_applications_with_pear_dependencies.html
+How to create a php that can be run on an isolated environment, with its own configuration file and vendor pear dependencies,
+
+This is the sourcecode for the following article:
+http://marcelog.github.com/articles/creating_php_cli_standalone_portable_applications_with_pear_dependencies.html
