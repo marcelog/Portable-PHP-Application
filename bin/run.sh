@@ -10,10 +10,10 @@ if [ ${#@} -lt 1 ]; then
 fi
 
 # Remove the first argument, we're going to use it.
-what=${1}
+stub=${1}
 shift
 
 # Invoke php with our custom ini file and include path,
 # passing every other argument in the command line to the
 # stub.
-${phpexec} ${bin}/${what}.php ${@}
+${phpexec} ${bin}/${stub}.php ${@}
