@@ -1,4 +1,6 @@
-pear.doctrine-project.org/DoctrineORM
+pear.doctrine-project.org/DoctrineCommon-2.1.0
+pear.doctrine-project.org/DoctrineDBAL-2.1.0
+pear.doctrine-project.org/DoctrineORM-2.1.0
 pear.marcelog.name/Ding
 pear.apache.org/log4php/Apache_log4php
 
